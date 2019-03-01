@@ -44,10 +44,10 @@ class WeChatController extends Controller
     public function serve(Request $request, WeChatService $weChatService)
     {
         // 阻止日志同步写入系统日志中
-        $monolog = Log::getMonolog();
-        $monolog->popHandler();
-        // 自定义日志写入文件
-        Log::useFiles(storage_path().'/logs/wechat_serve.log');
+//        $monolog = Log::getMonolog();
+//        $monolog->popHandler();
+//        // 自定义日志写入文件
+//        Log::useFiles(storage_path().'/logs/wechat_serve.log');
 
         // 验证微信服务器
         if( $request->isMethod('GET') ){
