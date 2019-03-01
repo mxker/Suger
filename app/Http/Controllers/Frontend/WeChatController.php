@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Controllers\Api;
+namespace App\Http\Controllers\Frontend;
 
 use App\Services\WeChatService;
 use Illuminate\Http\Request;
