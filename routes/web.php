@@ -13,11 +13,9 @@
 
 use Illuminate\Support\Facades\Route;
 
-Route::get('/', function () {
-    return view('welcome');
-});
-
 Route::group([ 'domain' => env('WEB_DOMAIN'), 'namespace' => 'Frontend' ], function (){
+
+    Route::get('','HomeController@index');
 
     Route::any('wechat','WeChatController@serve');
 
