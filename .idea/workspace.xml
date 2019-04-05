@@ -2,72 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d64d21c-0b20-460c-9622-bf908a306e9f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/css/animate.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/css/bootstrap.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/css/chocolat.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/css/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/fonts/css/font-awesome.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/fonts/fonts/FontAwesome.otf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/fonts/fonts/fontawesome-webfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/about.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/b1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/b2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/b3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/b4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/b5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/banner.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/banner1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/close.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/magnify-alt.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/menu.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/more.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/pic1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/pic10.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/pic11.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/pic12.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/pic13.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/pic14.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/pic15.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/pic16.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/pic17.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/pic18.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/pic19.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/pic2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/pic3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/pic4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/pic5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/pic6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/pic7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/pic8.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/pic9.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/s1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/s10.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/s11.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/s12.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/s2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/s3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/s4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/s5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/s6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/s7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/s8.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/images/s9.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/js/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/js/jquery-1.11.1.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/js/jquery.chocolat.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/suger/js/wow.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/suger/about.blade.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/suger/blog.blade.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/suger/contact.blade.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/suger/home.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/suger/services.blade.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/suger/single.blade.html" />
-      <change beforePath="$PROJECT_DIR$/.idea/Suger.iml" afterPath="$PROJECT_DIR$/.idea/Suger.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" afterPath="$PROJECT_DIR$/.idea/php.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Frontend/HomeController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/Frontend/HomeController.php" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" afterPath="$PROJECT_DIR$/routes/web.php" />
+      <change beforePath="$PROJECT_DIR$/resources/views/suger/home.blade.php" afterPath="$PROJECT_DIR$/resources/views/suger/home.blade.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -114,34 +50,35 @@
       <file leaf-file-name="home.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/suger/home.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="152" column="49" lean-forward="false" selection-start-line="152" selection-start-column="49" selection-end-line="152" selection-end-column="49" />
+            <state relative-caret-position="302">
+              <caret line="153" column="12" lean-forward="true" selection-start-line="153" selection-start-column="12" selection-end-line="153" selection-end-column="12" />
               <folding>
                 <element signature="n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#embed#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#embed#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="e#10675#10681#0#HTML" expanded="true" />
-                <element signature="e#10681#10687#0#HTML" expanded="true" />
-                <element signature="e#12699#12705#0#HTML" expanded="true" />
-                <marker date="1554478972055" expanded="true" signature="289:323" ph="..." />
-                <marker date="1554478972055" expanded="true" signature="449:489" ph="..." />
-                <marker date="1554478972055" expanded="true" signature="522:558" ph="..." />
-                <marker date="1554478972055" expanded="true" signature="622:652" ph="..." />
-                <marker date="1554478972055" expanded="true" signature="1184:1231" ph="..." />
-                <marker date="1554478972055" expanded="true" signature="1305:1335" ph="..." />
-                <marker date="1554478972055" expanded="true" signature="1367:1399" ph="..." />
-                <marker date="1554478972055" expanded="true" signature="7479:7511" ph="..." />
-                <marker date="1554478972055" expanded="true" signature="7783:7815" ph="..." />
-                <marker date="1554478972055" expanded="true" signature="7971:8003" ph="..." />
-                <marker date="1554478972055" expanded="true" signature="8275:8307" ph="..." />
-                <marker date="1554478972055" expanded="true" signature="8460:8492" ph="..." />
-                <marker date="1554478972055" expanded="true" signature="8764:8796" ph="..." />
-                <marker date="1554478972055" expanded="true" signature="9110:9142" ph="..." />
-                <marker date="1554478972055" expanded="true" signature="9218:9250" ph="..." />
-                <marker date="1554478972055" expanded="true" signature="9326:9358" ph="..." />
-                <marker date="1554478972055" expanded="true" signature="10188:10220" ph="..." />
+                <element signature="e#11040#11046#0#HTML" expanded="true" />
+                <element signature="e#11046#11052#0#HTML" expanded="true" />
+                <element signature="e#13064#13070#0#HTML" expanded="true" />
+                <marker date="1554479945749" expanded="true" signature="289:323" ph="..." />
+                <marker date="1554479945749" expanded="true" signature="449:489" ph="..." />
+                <marker date="1554479945749" expanded="true" signature="522:558" ph="..." />
+                <marker date="1554479945749" expanded="true" signature="622:652" ph="..." />
+                <marker date="1554479945749" expanded="true" signature="1184:1231" ph="..." />
+                <marker date="1554479945749" expanded="true" signature="1305:1335" ph="..." />
+                <marker date="1554479945749" expanded="true" signature="1367:1399" ph="..." />
+                <marker date="1554479945749" expanded="true" signature="7844:7876" ph="..." />
+                <marker date="1554479945749" expanded="true" signature="8148:8180" ph="..." />
+                <marker date="1554479945749" expanded="true" signature="8336:8368" ph="..." />
+                <marker date="1554479945749" expanded="true" signature="8640:8672" ph="..." />
+                <marker date="1554479945749" expanded="true" signature="8825:8857" ph="..." />
+                <marker date="1554479945749" expanded="true" signature="9129:9161" ph="..." />
+                <marker date="1554479945749" expanded="true" signature="9475:9507" ph="..." />
+                <marker date="1554479945749" expanded="true" signature="9583:9615" ph="..." />
+                <marker date="1554479945749" expanded="true" signature="9691:9723" ph="..." />
+                <marker date="1554479945749" expanded="true" signature="10553:10585" ph="..." />
               </folding>
             </state>
           </provider>
@@ -490,12 +427,12 @@
       <option name="presentableId" value="Default" />
       <updated>1551339559066</updated>
       <workItem from="1551339565391" duration="4844000" />
-      <workItem from="1554456563715" duration="7906000" />
+      <workItem from="1554456563715" duration="8883000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12750000" />
+    <option name="totallyTimeSpent" value="13727000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -510,7 +447,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18412699" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26031747" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -717,34 +654,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/suger/home.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="152" column="49" lean-forward="false" selection-start-line="152" selection-start-column="49" selection-end-line="152" selection-end-column="49" />
+        <state relative-caret-position="302">
+          <caret line="153" column="12" lean-forward="true" selection-start-line="153" selection-start-column="12" selection-end-line="153" selection-end-column="12" />
           <folding>
             <element signature="n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#embed#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#embed#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#10675#10681#0#HTML" expanded="true" />
-            <element signature="e#10681#10687#0#HTML" expanded="true" />
-            <element signature="e#12699#12705#0#HTML" expanded="true" />
-            <marker date="1554478972055" expanded="true" signature="289:323" ph="..." />
-            <marker date="1554478972055" expanded="true" signature="449:489" ph="..." />
-            <marker date="1554478972055" expanded="true" signature="522:558" ph="..." />
-            <marker date="1554478972055" expanded="true" signature="622:652" ph="..." />
-            <marker date="1554478972055" expanded="true" signature="1184:1231" ph="..." />
-            <marker date="1554478972055" expanded="true" signature="1305:1335" ph="..." />
-            <marker date="1554478972055" expanded="true" signature="1367:1399" ph="..." />
-            <marker date="1554478972055" expanded="true" signature="7479:7511" ph="..." />
-            <marker date="1554478972055" expanded="true" signature="7783:7815" ph="..." />
-            <marker date="1554478972055" expanded="true" signature="7971:8003" ph="..." />
-            <marker date="1554478972055" expanded="true" signature="8275:8307" ph="..." />
-            <marker date="1554478972055" expanded="true" signature="8460:8492" ph="..." />
-            <marker date="1554478972055" expanded="true" signature="8764:8796" ph="..." />
-            <marker date="1554478972055" expanded="true" signature="9110:9142" ph="..." />
-            <marker date="1554478972055" expanded="true" signature="9218:9250" ph="..." />
-            <marker date="1554478972055" expanded="true" signature="9326:9358" ph="..." />
-            <marker date="1554478972055" expanded="true" signature="10188:10220" ph="..." />
+            <element signature="e#11040#11046#0#HTML" expanded="true" />
+            <element signature="e#11046#11052#0#HTML" expanded="true" />
+            <element signature="e#13064#13070#0#HTML" expanded="true" />
+            <marker date="1554479945749" expanded="true" signature="289:323" ph="..." />
+            <marker date="1554479945749" expanded="true" signature="449:489" ph="..." />
+            <marker date="1554479945749" expanded="true" signature="522:558" ph="..." />
+            <marker date="1554479945749" expanded="true" signature="622:652" ph="..." />
+            <marker date="1554479945749" expanded="true" signature="1184:1231" ph="..." />
+            <marker date="1554479945749" expanded="true" signature="1305:1335" ph="..." />
+            <marker date="1554479945749" expanded="true" signature="1367:1399" ph="..." />
+            <marker date="1554479945749" expanded="true" signature="7844:7876" ph="..." />
+            <marker date="1554479945749" expanded="true" signature="8148:8180" ph="..." />
+            <marker date="1554479945749" expanded="true" signature="8336:8368" ph="..." />
+            <marker date="1554479945749" expanded="true" signature="8640:8672" ph="..." />
+            <marker date="1554479945749" expanded="true" signature="8825:8857" ph="..." />
+            <marker date="1554479945749" expanded="true" signature="9129:9161" ph="..." />
+            <marker date="1554479945749" expanded="true" signature="9475:9507" ph="..." />
+            <marker date="1554479945749" expanded="true" signature="9583:9615" ph="..." />
+            <marker date="1554479945749" expanded="true" signature="9691:9723" ph="..." />
+            <marker date="1554479945749" expanded="true" signature="10553:10585" ph="..." />
           </folding>
         </state>
       </provider>

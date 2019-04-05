@@ -143,13 +143,15 @@
     <div class="container">
         <h3 class="head_1 wow rotateInUpLeft" data-wow-delay="0.4s"> 往期课程</h3>
         <div class="col-md-6 box_6 wow rotateInDownLeft " data-wow-delay="0.4s">
-            <embed class="img-responsive" style="width: 100%;height: 350px;" src='http://player.youku.com/player.php/sid/XNDEyNjI0ODcwNA==/v.swf' allowFullScreen='true' quality='high' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
+            {{--<embed class="img-responsive" style="width: 100%;height: 350px;" src='http://player.youku.com/player.php/sid/XNDEyNjI0ODcwNA==/v.swf' allowFullScreen='true' quality='high' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>--}}
+            <iframe class="img-responsive" style="width: 100%;height: 350px;" src='http://player.youku.com/embed/XNDEyNjIzNjcyMA==' frameborder=0 'allowfullscreen'></iframe>
             <div class="desc" style="height: 80px;">
                 <h4>小学奥数</h4>
             </div>
         </div>
         <div class="col-md-6 box_6 wow lightSpeedIn" data-wow-delay="0.4s">
-            <embed class="img-responsive" style="width: 100%;height: 350px;" src='http://player.youku.com/player.php/sid/XNDEyNjIzNjcyMA==/v.swf' allowFullScreen='true' quality='high' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
+            {{--<embed class="img-responsive" style="width: 100%;height: 350px;" src='http://player.youku.com/player.php/sid/XNDEyNjIzNjcyMA==/v.swf' allowFullScreen='true' quality='high' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>--}}
+            <iframe class="img-responsive" style="width: 100%;height: 350px;"  src='http://player.youku.com/embed/XNDEyNjI0ODcwNA==' frameborder=0 'allowfullscreen'></iframe>
             <div class="desc" style="height: 80px;">
                 <h4>高中物理</h4>
             </div>
