@@ -264,7 +264,12 @@
     </div>
 </div>
 <div class="copy">
-    <p>Copyright &copy; 2019.成都市温江区书香阁教育培训学校有限公司. <a href="http://www.suger.mxker.cn/" target="_blank" >书香阁教育培训学校</a></p>
+{{--    <p>Copyright &copy; 2019.成都市温江区书香阁教育培训学校有限公司.--}}
+{{--        <a href="http://suger.mxker.cn/" target="_blank" >书香阁教育培训学校</a>--}}
+{{--        <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=15034350" target="_blank">蜀ICP备15034350号</a>--}}
+{{--    </p>--}}
+    <p>Copyright &copy; 2019.<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=15034350" target="_blank">蜀ICP备15034350号</a>
+    </p>
 </div>
 
 </body>
