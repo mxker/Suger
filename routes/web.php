@@ -13,7 +13,7 @@
 
 use Illuminate\Support\Facades\Route;
 
-Route::group([ 'domain' => env('WEB_DOMAIN'), 'namespace' => 'Frontend' ], function (){
+Route::group(['namespace' => 'Frontend' ], function (){
 
     Route::get('','HomeController@index');
 
