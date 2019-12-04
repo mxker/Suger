@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Contact</title>
+<title>Single</title>
 <link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="js/jquery-1.11.1.min.js"></script>
@@ -14,6 +14,15 @@
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!--webfont-->
 <link href='http://fonts.useso.com/css?family=Lato:100,200,300,400,500,600,700,800,900' rel='stylesheet' type='text/css'>
+<!------ light-box-script ----->
+<script src="js/jquery.chocolat.js"></script>
+<link rel="stylesheet" href="css/chocolat.css" type="text/css" media="screen" charset="utf-8" />
+<script type="text/javascript" charset="utf-8">
+	$(function() {
+		$('.about-grid a').Chocolat({linkImages:false});
+	});
+</script>
+<!------ light-box-script ----->
 <!----font-Awesome----->
 <link rel="stylesheet" href="fonts/css/font-awesome.min.css">
 <!----font-Awesome----->
@@ -32,10 +41,10 @@
 				    <span class="menu"> </span>
 					<ul>
 						<li><a href="index.html">Home</a></li>
-					  	<li><a href="about.blade.html">About</a></li>
-					  	<li><a href="services.blade.html">Services</a></li>
-					  	<li><a href="blog.blade.html">Blog</a></li>
-					  	<li class="active"><a href="contact.blade.html">Contact</a></li>
+					  	<li><a href="about.blade.php">About</a></li>
+					  	<li><a href="services.blade.php">Services</a></li>
+					  	<li class="active"><a href="blog.blade.php">Blog</a></li>
+					  	<li><a href="contact.blade.php">Contact</a></li>
 					</ul>
 				<!-- script-nav -->
 			<script>
@@ -63,58 +72,81 @@
 		$(document).ready(function() {
 			 var navoffeset=$(".header-home").offset().top;
 			 $(window).scroll(function(){
-				var scrollpos=$(window).scrollTop(); 
+				var scrollpos=$(window).scrollTop();
 				if(scrollpos >=navoffeset){
 					$(".header-home").addClass("fixed");
 				}else{
 					$(".header-home").removeClass("fixed");
 				}
 			 });
-			 
+
 		});
 		</script>
 		<!-- /script-for sticky-nav -->
 	<!--//header-->
    <div class="grid_4">
-		<div class="container"> 
-			<h1 class="blog_head">Contact</h1>
-		    <div class="map">
-			  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3150859.767904157!2d-96.62081048651531!3d39.536794757966845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1408111832978"> </iframe>
-			</div>
-			<div class="contact">
-				<div class="col-md-4 contact_left">
-					<h3>Contact info</h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum adipiscing vestibulum sapien, in ultricies tellus dignissim eget. Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
-				    <p> Praesent mollis dolor eros, vel facilisis nisi auctor ut. Cras id convallis ipsum. Mauris posuere, ligula ac sodales sollicitudin, risus sapien iaculis libero, ac molestie orci arcu non ante. Fusce est leo, ornare ut porta quis, dictum et mi. Aliquam vel pretium sem</p>
-				</div>
-				<div class="col-md-8 contact_right">
-					<h3>Catch me</h3>
-					<form>
-									<div class="text">
-										<div class="text-fild">
-											<span>Name:</span>
-											<input type="text" class="text" value="Your Name here" onFocus="this.value = '';" onBlur="if (this.value == '') {this.value = 'Your Name here';}">
-										</div>
-										<div class="text-fild">
-											<span>Email:</span>
-											<input type="text" class="text" value="Your Email here" onFocus="this.value = '';" onBlur="if (this.value == '') {this.value = 'Your Email here';}">
-										</div>
-										<div class="clearfix"> </div>
-									</div>
-									<div class="msg-fild">
-											<span>Subject:</span>
-											<input type="text" class="text" value="Your Subject here" onFocus="this.value = '';" onBlur="if (this.value == '') {this.value = 'Your Subject here';}">
-									</div>
-									<div class="message-fild">
-											<span>Message:</span>
-											<textarea> </textarea>
-									</div>
-									<label class="btn1 btn2 btn-8 btn-8c"><input type="submit" value="Send"></label>
-					</form>
-				</div>
-				<div class="clearfix"> </div>
-			</div>
-		 </div>
+		<div class="container">
+			<h1 class="blog_head">Blog</h1>
+
+		    <div class="blog_grid">
+		      <div class="blog_box">
+		        <a href="single.blade.php" class="mask"><img src="images/b5.jpg" alt="image" class="img-responsive zoom-img" alt=""/></a>
+		     	<h3><a href="single.blade.php">Ut wisi enim ad minim veniam, quis nostrud exerc</a></h3>
+		     	<div class="links">
+		  		    <ul>
+		  				<li><i class="fa blog-icon fa-calendar"> </i><span>june 14, 2013</span></li>
+		  				<li><i class="fa blog-icon fa-user"> </i><span>admin</span></li>
+		  				<li><i class="fa blog-icon fa-comment"> </i><a href="#"><span>No comments</span></a></li>
+		  		    </ul>
+		  		</div>
+		     	<p>Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam,nibh euismod tincidunt</p>
+		     </div>
+		   </div>
+		   <div class="comment">
+		  		        	<h2>Comments</h2>
+		  		        	<ul class="comment-list">
+		  		        	  <li><img src="images/pic12.jpg" alt="">
+		  		        		 <div class="desc1">
+		  		        			<h5><a href="#">Lorem ipsum dolor sit amet</a></h5>
+		  		        			<div class="extra">
+					                  <time pubdate="" datetime="2014-03-30T14:47:59">
+						                 Submitted by admin on January 30, 2014 - 14:47					</time>
+					                </div>
+			                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent</p>
+			                        <div class="reply"><a class="comment-reply-link" href="#">Reply</a></div>
+		  		        		   </div>
+		  		        		   <div class="clearfix"></div>
+		  		        		</li>
+		  		        	</ul>
+		  </div>
+		  <div class="comments-area">
+		  		        	<h3>Add New Comment</h3>
+							<form>
+								<p>
+									<label>Name</label>
+									<span>*</span>
+									<input type="text" value="">
+								</p>
+								<p>
+									<label>Email</label>
+									<span>*</span>
+									<input type="text" value="">
+								</p>
+								<p>
+									<label>Website</label>
+									<input type="text" value="">
+								</p>
+								<p>
+									<label>Subject</label>
+									<span>*</span>
+									<textarea></textarea>
+								</p>
+								<p>
+									<label class="btn1 btn2 btn-8 btn-8c"><input type="submit" value="Submit Comment"></label>
+								</p>
+							</form>
+		    </div>
+		</div>
 	</div>
 	<div class="footer">
 		<div class="container">
@@ -165,4 +197,4 @@
     </div>
 
 </body>
-</html>		
+</html>
